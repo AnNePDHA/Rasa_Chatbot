@@ -54,4 +54,4 @@ python app.py
 ```
 Như vậy bạn chỉ cần truy cập địa chỉ http://127.0.0.1:5000/ là sẽ có giao diện trò chuyện với chatbot.
 ## Authors
-* **An Pham** - *Initial work* - [AnHoangbk19](https://github.com/AnHoangbk19)
+* **An Pham** - *Initial work* - [AnNePDHA](https://github.com/AnNePDHA)
